@@ -1,6 +1,5 @@
 from flask import Flask
 from threading import Thread
-from json import load
 import random
 
 app = Flask(__name__)
