@@ -1,4 +1,9 @@
 # randomJokeAPI
+
+## Note: This project has been discontinued and no longer works.
+
+----
+
 ## Overview
 randomJokeAPI is a very basic API that gives random jokes.
 
